@@ -1,0 +1,205 @@
+/*For bigger screen then normal 960px desktop*/
+@media (min-width: 1200px) {
+
+
+
+}
+
+/*Use if needed*/
+@media (min-width: 980px) and (max-width: 1199px) {
+
+div#woocase-quick-look-popup {
+    width: 90%;
+    height: 455px;
+}
+.woocase-carousel-version-7 .woocase-carousel-text-content {
+    width: 100%;
+}
+.woocase-carousel-version-8 .woocase-carousel-text-content,
+.woocase-carousel-version-4 .woocase-carousel-text-content {
+    width: 100%;
+    padding: 0 20px;
+}
+.woocase-carousel-version-5 .woocase-carousel-text-content {
+    width: 100%;
+}
+
+}
+
+/*For Tablet Layout*/
+@media (min-width: 768px) and (max-width: 991px) {
+.woocase-carousel-version-1 .woocase-carousel-btn {
+    margin: 0 3px 0 0;
+}
+.woocase-popup-gallery {
+    width: 100%;
+    margin-bottom: 30px;
+}
+div#woocase-quick-look-popup{
+	height: auto;
+}
+.woocase-inner-quick-look-details-data {
+    position: static;
+    -webkit-transform: inherit;
+    -moz-transform: inherit;
+    transform: inherit;
+}
+.woocase-quick-look-details-data {
+    width: 100%;
+    height: inherit;
+}
+.woocase-quick-look-content {
+    max-height: inherit;
+}
+
+.woocase-carousel-version-7 .woocase-carousel-text-content {
+    width: 100%;
+    padding: 0 20px;
+}
+
+.woocase-grid-colomn-sp.woocase-2-grid-column figure.woocase-carousel-elements, .woocase-grid-colomn-sp-v2.woocase-2-grid-column .woocase-carousel-single-item {
+    width: 48%;
+}
+.woocase-grid-colomn-sp figure.woocase-carousel-elements,
+.woocase-grid-colomn-sp-v2 .woocase-carousel-single-item {
+    width: 48%;
+}
+.woocase-grid-colomn-sp.woocase-3-grid-column figure.woocase-carousel-elements, .woocase-grid-colomn-sp-v2.woocase-3-grid-column .woocase-carousel-single-item {
+    width: 48.5%;
+}
+.woocase-grid-colomn-sp.woocase-4-grid-column figure.woocase-carousel-elements,
+.woocase-grid-colomn-sp-v2.woocase-4-grid-column .woocase-carousel-single-item,
+.woocase-4-masonary-column-grid .woocase-grid-column-single-item {
+    width: 33.3%;
+}
+.woocase-3-masonary-column-grid .woocase-grid-column-single-item {
+    width: 50%;
+}
+.woocase-carousel-version-5 .woocase-carousel-text-content {
+    width: 100%;
+}
+
+
+/* First tes */
+.vertical-woocase-slides > div {
+    height: 80%;
+}
+.woocase-banner-version-1 .woocasse-banner-txt h3,
+.woocase-banner-version-2 .woocasse-banner-txt h3,
+.woocase-banner-version-3 .woocasse-banner-txt h3,
+.woocase-banner-version-4 .woocasse-banner-txt h3 {
+    font-size: 45px;
+}
+.woocase-banner-version-1 .customNavigation .prev, .woocase-banner-version-1 .customNavigation .next {
+    width: 70px;
+    height: 70px;
+    line-height: 75px;
+}
+.woocase-banner-section,
+.woocase-slider.owl-carousel {
+    height: 400px;
+}
+.woocase-banner-img-sp .woocase-lombu-thumb {
+    max-height:400px;
+}
+.woocase-banner-version-2 .customNavigation .next, .woocase-banner-version-2 .customNavigation .prev {
+    margin-top: -41px;
+}
+
+
+
+
+
+}
+/*Use if needed*/
+@media (max-width: 979px) {
+}
+
+
+/*For Wide Mobile Layout*/
+@media (max-width: 767px) {
+.woocase-popup-gallery {
+    width: 100%;
+    margin-bottom: 30px;
+}
+div#woocase-quick-look-popup{
+	height: auto;
+	width: 100%;
+}
+.woocase-inner-quick-look-details-data {
+    position: static;
+    -webkit-transform: inherit;
+    -moz-transform: inherit;
+    transform: inherit;
+}
+.woocase-quick-look-details-data {
+    width: 100%;
+    height: inherit;
+}
+.woocase-quick-look-content {
+    max-height: inherit;
+}
+
+.woocase-quick-look-details-data footer input[type='number'] {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.woocase-quick-look-details-data footer .woocase-carousel-btn {
+    width: 100%;
+    display: block;
+}
+.woocase-quick-look-details-data footer a.woocase-addtocart-url {
+    width: calc(100% - 41px);
+}
+
+.woocase-carousel-version-7 .woocase-carousel-text-content {
+    width: 100%;
+    padding: 0 20px;
+}
+.woocase-carousel-version-7 .woocase-carousel-btn {
+    margin: 0;
+}
+.woocase-carousel-btn-group {
+    display: block;
+}
+.woocase-search-icon {
+    display: inline-block;
+}
+.woocase-quick-look-details-data footer .woocase-addToCart-btn {
+    width: 100%;
+}
+.woocase-grid-colomn-sp.woocase-2-grid-column figure.woocase-carousel-elements, .woocase-grid-colomn-sp-v2.woocase-2-grid-column .woocase-carousel-single-item {
+    width: 100%;
+	margin-left: 0;
+}
+.woocase-grid-colomn-sp figure.woocase-carousel-elements,
+.woocase-grid-colomn-sp-v2 .woocase-carousel-single-item {
+    width: 100%;
+    margin-left: 0;
+}
+.woocase-carousel-version-8 .woocase-carousel-text-content {
+    width: 100%;
+}
+.woocase-grid-colomn-sp.woocase-3-grid-column figure.woocase-carousel-elements, 
+.woocase-grid-colomn-sp-v2.woocase-3-grid-column .woocase-carousel-single-item,
+.woocase-grid-colomn-sp-v2.woocase-4-grid-column .woocase-carousel-single-item,
+.woocase-2-masonary-column-grid .woocase-grid-column-single-item,
+.woocase-3-masonary-column-grid .woocase-grid-column-single-item,
+.woocase-4-masonary-column-grid .woocase-grid-column-single-item,
+.woocase-grid-colomn-sp.woocase-4-grid-column figure.woocase-carousel-elements  {
+    width: 100%;
+}
+.woocase-carousel-version-4 .woocase-carousel-btn {
+    margin: inherit;
+}
+.woocase-carousel-version-5 .woocase-carousel-text-content {
+    width: 100%;
+}
+
+}
+
+/*For 320-384px up Mobile Layout*/
+@media (max-width: 479px) {
+
+
+}

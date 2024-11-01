@@ -1,0 +1,345 @@
+img.woocase-addtocart-preloader {
+    display: inline-block;
+    width: 20px !important;
+    height: 20px !important;
+    line-height: 20px !important;
+        position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    box-shadow: none !important;
+}
+.woocase-addToCart-btn {
+    display: inline-block;
+    position: relative;
+}
+.woocase-load-more-button,
+.woocase-load-more-button-masonary {
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    clear: both;
+    margin-top: 50px;
+}
+.woocase-load-more-button a,
+.woocase-load-more-button-masonary a {
+    display: inline-block;
+    border: 1px solid #222;
+    padding: 0 18px;
+    background-color: #222;
+    color: #fff !important;
+    height: 40px;
+    line-height: 40px;
+}
+.woocase_loadmore_loader img {
+    width: 30px;
+}
+.woocase-carousel-container {
+    overflow: hidden;
+}
+.woocase-load-more-button-masonary {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+
+
+.woocase-2-masonary-column-grid .woocase-grid-column-single-item {
+    width: 50%;
+    float: left;
+}
+.woocase-3-masonary-column-grid .woocase-grid-column-single-item {
+    width: 33.3%;
+    float: left;
+}
+.woocase-4-masonary-column-grid .woocase-grid-column-single-item {
+    width: 25%;
+    float: left;
+}
+
+.woocase-2-masonary-column-grid .woocase-grid-column-single-item .woocase-carousel-single-item,
+.woocase-3-masonary-column-grid .woocase-grid-column-single-item .woocase-carousel-single-item,
+.woocase-4-masonary-column-grid .woocase-grid-column-single-item .woocase-carousel-single-item {
+    width: initial;
+}
+
+/* Popup */
+.woocase-popup-gallery .customNavigation a img {
+    background-color: #333;
+    padding: 10px 5px;
+}
+div#woocase-quick-look-popup {
+    width: 70%;
+    background-color: #fff;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    height: 470px;
+    max-width: 1000px;
+}
+/*div#woocase-quick-look-popup .owl-carousel .owl-stage,
+div#woocase-quick-look-popup .owl-carousel.owl-drag .owl-item{
+    max-width: 100%;
+}*/
+.woocase-quick-look-popup div{
+    max-height: 100%;
+}
+.woocase-quick-look-popup div.owl-item img {
+    max-height: 500px;
+    margin: auto;
+    max-width: 100%;
+    width: auto;
+}
+div#woocase-quick-look-popup .mfp-close {
+    background-color: transparent !important;
+}
+.woocase-quick-look-details-data {
+    width: 50%;
+    float: left;
+}
+.woocase-popup-gallery {
+    width: 50%;
+    float: left;
+    position: relative;
+}
+/*.woocase-popup-gallery.owl-loaded.owl-drag {
+    width: 50%;
+    float: left;
+}*/.woocase-quick-look-details-data {
+    width: 50%;
+    float: left;
+    position: relative;
+    height: 470px;
+}
+.woocase-inner-quick-look-details-data {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    transform: translateY(-50%);
+    box-sizing: border-box;
+    padding: 30px;
+}
+.woocase-quick-look-details-data header h3 {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 0;
+    color: #333;
+}
+.woocase-popup-price span.woocommerce-Price-amount.amount {
+    font-family: 'Open Sans';
+    font-size: 25px;
+    font-weight: 300;
+    color: #333;
+}
+.woocase-quick-look-details-data header {
+    margin-bottom: 30px;
+    color: #333;
+}
+.woocase-quick-look-content p:last-child {
+    margin: 0;
+}
+.woocase-quick-look-main-data p {
+    font-size: 16px;
+    font-family: 'Open Sans';
+}
+.woocase-quick-look-content {
+    max-height: 190px !important;
+    overflow: auto;
+}
+.woocase-quick-look-details-data footer input[type='number'] {
+    width: 60px;
+    float: left;
+    height: 40px;
+    border-radius: 0px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    
+    display: block;
+    padding: 0.7em;
+    color: #333;
+    background: transparent;
+    background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0));
+    border: 1px solid #bbb;
+    font-size: 16px;
+    margin-right: 10px;
+}
+.woocase-quick-look-details-data footer{
+    padding-top: 30px;
+}
+.woocase-quick-look-details-data footer .carousel-cart-ico-btn {
+    border: 1px solid #bbb;
+}
+.woocase-quick-look-ratting .star-rating::before {
+    color: #EBBC00;
+}
+.woocase-quick-look-ratting .star-rating {
+    color: #EBBC00;
+    display: inline-block;
+    margin: 15px 0;
+}
+.woocase-quick-look-ratting  a.woocommerce-review-link {
+    display: none;
+}
+.woocase-quick-look-details-data footer .woocase-carousel-btn {
+    text-align: center;
+    color: #333;
+    border: 1px solid #bbb;
+    height: 40px;
+    margin-right: 10px;
+    line-height: 22px;
+    position: relative;
+    overflow: hidden;
+    /*padding: 9px 25px;;*/
+    display: inline-block;
+    font-size: 12px;
+}
+.woocase-quick-look-details-data footer .woocase-add-to-cart-btn {
+    padding: 10px 20px 10px 50px;
+}
+.woocase-quick-look-details-data .carousel-cart-ico-btn:before {
+    position: absolute;
+    content: "";
+    top: 0%;
+    left: 0%;
+    background-image: url(../images/cart-ico.png);
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 100%;
+    background-color: #eee;
+    background-position: center center;
+    opacity:  1;
+    transition: opacity .4s;
+}
+.woocase-popup-gallery .customNavigation a {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    -webkit-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    z-index: 9;
+    cursor: pointer;
+}
+.woocase-popup-gallery .customNavigation a.next{
+    right: 10px;
+    left: inherit;
+}
+
+a.woocase-addtocart-url {
+/*    position: absolute;
+    right: -130px;
+    z-index: 999;
+    color: #333;
+    border: 1px solid #ddd;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 25px;
+    background-color: #fff;*/
+
+position: absolute;
+    left: 40px;
+    z-index: 999;
+    color: #333;
+    border: 1px solid #ddd;
+    height: 37px;
+    line-height: 36px;
+    padding: 0 10px;
+    background-color: #fff;
+    width: 96px;
+    font-size: 12px;
+    text-align: center;
+}
+.woocase-quick-look-details-data footer a.woocase-addtocart-url {
+
+    left: 41px;
+    height: 40px;
+    line-height: 40px;
+    width: 100px;
+}
+.woocase-carousel-default-css .woocase-addToCart-btn img.woocase-addtocart-preloader {
+    left: 9px !important;
+    transform: inherit !important;
+    z-index: 9 !important;
+    top: 9px !important;
+    position: absolute !important;
+}
+.woocase-quick-look-details-data footer img.woocase-addtocart-preloader {
+    position: absolute;
+    z-index: 9;
+    left: 20px;
+    top: 11px;
+}
+
+/*  End initial popup */
+
+
+.carousel-cart-ico-btn.woocase-ajax-btn-sp:before{
+   background-image: none;
+
+}
+
+.customNavigation a,
+.customNavigation img {
+    box-shadow: none !important;
+    vertical-align: middle;
+}
+
+.woocase-banner-version-4 .customNavigation img {
+    height: 25px;
+}
+
+.woocase-carousel-default-css a {
+    box-shadow: none !important;
+}
+.woocase-add-to-cart-btn.outofstock {
+    cursor: not-allowed;
+}
+.woocase-outofstock p.outofstock {
+    color: tomato;
+    display: block;
+}
+
+/* sale and featured tag/ribbon  */
+.woocase-sale-featured-ribbon-section {
+    position: absolute;
+    top: 10px !important;
+    right: 0 !important;
+    z-index: 3 !important;
+    height: auto !important;
+    width: auto !important;
+    background-color: transparent !important;
+}
+.woocase-sale-featured-ribbon-section ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.woocase-sale-featured-ribbon-section ul li::before,
+.woocase-sale-featured-ribbon-section ul li::after {
+    display: none !important;
+}
+.woocase-sale-featured-ribbon-section ul li {
+    background-color: tomato;
+    padding: 2px 15px !important;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-bottom: 5px;
+    border: 0  !important;
+    border-radius: 0  !important;
+    text-align: center;
+    color: #fff !important;
+}
+.woocase-sale-featured-ribbon-section ul li.woocase-sale-ribbon {
+    background-color: #b73b3e;
+}
+.woocase-sale-featured-ribbon-section ul li:last-child{
+    margin: 0;
+}

@@ -1,0 +1,739 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Woocase Pro\n"
+"POT-Creation-Date: 2017-05-04 12:24+0600\n"
+"PO-Revision-Date: 2017-05-04 15:54+0600\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocasepro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en_BD\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:21
+msgid "Post Settings:"
+msgstr "পোস্ট সেটিংস"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:24
+msgid "Slider"
+msgstr "স্লাইডার"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:25
+msgid "Grid"
+msgstr "গ্রিড"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:26
+msgid "List"
+msgstr "তালিকা"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:28
+msgid "Choose your preferred Variation of WooCase Showcase from the list."
+msgstr "WooCase  তালিকা থেকে আপনার পছন্দের প্রকার চয়ন করুন "
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:35
+msgid "Slider Type:"
+msgstr "স্লাইডার টাইপঃ"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:38
+msgid "Full Screen/Hero Slide"
+msgstr "পূর্ণ স্ক্রিন / হিরো স্লাইড"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:39
+msgid "Carousel Slide"
+msgstr "ক্যারোজেল স্লাইড"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:40
+msgid "Grid Slide"
+msgstr "গ্রিড স্লাইড"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:41
+msgid "Sidebar Slide"
+msgstr "সাইডবার স্লাইড"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:43
+msgid "Choose your preferred WooCase slide type from the list."
+msgstr "WooCase তালিকা থেকে আপনার পছন্দসই স্লাইডের প্রকার নির্বাচন করুন"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:51
+msgid "Full Screen/Hero Slide Styles:"
+msgstr "পূর্ণ স্ক্রিন / হিরো স্লাইড শৈলী:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:54
+msgid "Vertical Showcase"
+msgstr "উল্লম্ব প্রদর্শনী"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:55
+msgid "Classic Style"
+msgstr "ক্লাসিক স্টাইল"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:56
+msgid "Modern Style"
+msgstr "আধুনিক স্টাইল"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:57
+msgid "Minimal Style"
+msgstr "মিনিমাল স্টাইল"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:58
+msgid "Flat Style"
+msgstr "ফ্ল্যাট স্টাইল"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:60
+msgid "Choose your preferred WooCase Full Screen Slider Style from the list."
+msgstr "WooCase তালিকা থেকে আপনার পছন্দসই  পূর্ণ স্ক্রীন স্লাইডার শৈলী চয়ন করুন"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:68
+msgid "Carousel Styles:"
+msgstr "ক্যারোশেল শৈলী:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:71
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:92
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:108
+msgid "Classic Slide V1"
+msgstr "ক্লাসিক স্লাইড প্রকার এক"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:72
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:93
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:109
+msgid "Classic Slide V2"
+msgstr "ক্লাসিক স্লাইড প্রকার দুই"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:74
+msgid "Center Focused Slide V1"
+msgstr "কেন্দ্র ফোকাস স্লাইড প্রকার এক"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:75
+msgid "Center Focused Slide V2"
+msgstr "কেন্দ্র ফোকাস স্লাইড প্রকার দুই"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:76
+msgid "Carousel With Thumbnail Slider"
+msgstr "থাম্বনেইল স্লাইডার সহ ক্যারোজেল"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:79
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:97
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:111
+msgid "Choose your preferred WooCase Carousel Style from the list."
+msgstr "WooCase তালিকা থেকে আপনার পছন্দসই  কারসুয়াল স্টাইল চয়ন করুন"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:87
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:140
+msgid "Grid Styles:"
+msgstr "গ্রিড শৈলী:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:95
+msgid "Classic Slide V3"
+msgstr "ক্লাসিক স্লাইড প্রকার তিন"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:105
+msgid "Sidebar Styles:"
+msgstr "সাইডবার শৈলী:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:121
+msgid "Grid Type:"
+msgstr "গ্রিড প্রকার:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:124
+msgid "2 Column Grid"
+msgstr "দুই কলাম গ্রিড"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:125
+msgid "3 Column Grid"
+msgstr "তিন কলাম গ্রিড"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:126
+msgid "4 Column Grid"
+msgstr "চার কলাম গ্রিড"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:128
+msgid "2 Column Masonary Grid"
+msgstr "দুই কলাম ম্যাসনারি গ্রিড"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:129
+msgid "3 Column Masonary Grid"
+msgstr "তিন কলাম ম্যাসনারি গ্রিড"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:130
+msgid "4 Column Masonary Grid"
+msgstr "চার কলাম ম্যাসনারি গ্রিড"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:132
+msgid "Choose your preferred WooCase Grid type from the list."
+msgstr "WooCase তালিকা থেকে আপনার পছন্দসই গ্রিড টাইপ চয়ন করুন"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:143
+msgid "Classic V1"
+msgstr "ক্লাসিক প্রকার এক"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:144
+msgid "Classic V2"
+msgstr "ক্লাসিক প্রকার দুই"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:146
+msgid "Choose your preferred WooCase Grid Style from the list."
+msgstr "WooCase  তালিকা থেকে আপনার পছন্দসই গ্রিড স্টাইল চয়ন করুন"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:156
+msgid "List Type:"
+msgstr "তালিকা প্রকার:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:159
+msgid "List With Full Thumb"
+msgstr "সম্পূর্ণ ছবি সঙ্গে তালিকা"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:160
+msgid "List With Side Thumb"
+msgstr "সাইড থম্পস সঙ্গে তালিকা"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:162
+msgid "Choose your preferred WooCase list type from the list."
+msgstr "WooCase তালিকা থেকে আপনার পছন্দসই  তালিকা টাইপ চয়ন করুন"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:174
+msgid "Auto Slide:"
+msgstr "অটো স্লাইড:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:179
+msgid "Turn ON/OFF Auto Slide for selected slider style."
+msgstr "নির্বাচিত স্লাইডার শৈলী জন্য অটো স্লাইড চালু / বন্ধ।"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:187
+msgid "Navigation:"
+msgstr "ন্যাভিগেশন:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:191
+msgid "Turn ON/OFF Navigation for selected slider style."
+msgstr "নির্বাচিত স্লাইডার শৈলী জন্য চালু / বন্ধ নেভিগেশন চালু করুন।"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:200
+msgid "Pagination:"
+msgstr "পত্রাঙ্কন:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:204
+msgid "Turn ON/OFF Pagination for selected slider style."
+msgstr "নির্বাচিত স্লাইডার শৈলী জন্য চালু / বন্ধ করুন।"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:212
+msgid "Slide Time:"
+msgstr "স্লাইড টাইম:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:220
+msgid "Choose Time beetween each Slide.(1 to 5 Seconds)"
+msgstr "প্রতিটি স্লাইডের মধ্যে সময় নির্বাচন করুন। (1 থেকে 5 সেকেন্ড)"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:228
+msgid "Slider Container Width:"
+msgstr "স্লাইডার ধারক প্রস্থ:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:236
+msgid "Choose Slider Container Width.(300px to 1170px)"
+msgstr "স্লাইডার ধারক প্রস্থ নির্বাচন করুন। (300px থেকে 1170px)"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:244
+msgid "Post per Slide"
+msgstr "স্লাইড প্রতি পোস্ট"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:251
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:326
+msgid "Choose How Many Posts you want to get per Slide."
+msgstr "আপনি স্লাইড প্রতি পেতে চান কিভাবে অনেক পোস্ট চয়ন করুন।"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:266
+msgid "Upload Slider Cover Image:"
+msgstr "স্লাইডার কভার চিত্র আপলোড করুন:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:275
+msgid "This image will cover full slide area, so upload depending on your need."
+msgstr "এই ছবিটি সম্পূর্ণ স্লাইড এলাকা জুড়ে দেবে, তাই আপনার প্রয়োজন অনুসারে আপলোড করুন।"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:279
+msgid "Background Image Size:"
+msgstr "পটভূমি চিত্রের আকার:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:282
+msgid "Cover"
+msgstr "আবরণ"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:283
+msgid "Contain"
+msgstr "ধারণ করা"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:286
+msgid "<strong>Cover:</strong> Scale the background image to be as large as possible so that the background area is completely covered by the background image. Some parts of the background image may not be in view within the background positioning area"
+msgstr "<Strong> আচ্ছাদন: </ strong> যতটা সম্ভব বড় হতে পটভূমির ছবিটি স্কেল করুন যাতে পটভূমির এলাকাটি সম্পূর্ণ ব্যাকগ্রাউন্ড ইমেজ দ্বারা আচ্ছাদিত করা হয়। পটভূমির ছবির কিছু অংশ ব্যাকগ্রাউন্ড পজিশনিং এলাকার মধ্যে দেখতে নাও পারে"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:287
+msgid "<strong>Contain:</strong> Scale the image to the largest size such that both its width and its height can fit inside the content area"
+msgstr "<Strong> রয়েছে: </ strong> ইমেজটিকে সর্বাধিক আকারের স্কেল করুন যাতে উভয়টির প্রস্থ এবং এর উচ্চতা বিষয়বস্তু এলাকার ভিতরে ফিট করতে পারে"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:291
+msgid "Background Image Position:"
+msgstr "পৃষ্ঠভূমি চিত্র অবস্থান:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:294
+msgid "Center Center"
+msgstr "মধ্য কেন্দ্র"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:295
+msgid "Left Center"
+msgstr "বাম কেন্দ্র"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:296
+msgid "Right Center"
+msgstr "ডান কেন্দ্র"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:299
+msgid "<strong>Background Position:</strong> The background-position property sets the starting position of a background image."
+msgstr "<Strong> ব্যাকগ্রাউন্ড পজিশন: </ strong> ব্যাকগ্রাউন্ড-পজিশন বৈশিষ্ট্যাবলী একটি পটভূমির চিত্রের শুরু স্থান নির্ধারণ করে।"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:303
+msgid "Background Image Size Repeat:"
+msgstr "পটভূমি চিত্রের আকার পুনরাবৃত্তি:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:306
+msgid "No Repeat"
+msgstr "পুনরাবৃত্তি না"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:307
+msgid "Repeat"
+msgstr "পুনরাবৃত্তি"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:310
+msgid "<strong>No Repeat:</strong> The background-image will not be repeated."
+msgstr "<Strong> কোন পুনরাবৃত্তি হয় না: </ strong> ব্যাকগ্রাউন্ড-ইমেজ পুনরাবৃত্তি হবে না।"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:311
+msgid "<strong>Repeat:</strong> The background image will be repeated both vertically and horizontally."
+msgstr "<Strong> পুনরাবৃত্তি: </ strong> ব্যাকগ্রাউন্ড ইমেজ উল্লম্বভাবে এবং অনুভূমিকভাবে উভয় পুনরাবৃত্তি হবে।"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:323
+msgid "Background Image Color:"
+msgstr "পৃষ্ঠভূমি চিত্র রঙ:"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:330
+msgid "Prev"
+msgstr "পূর্ববর্তী"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:21
+msgid "Select Product Type:"
+msgstr "পণ্য প্রকার নির্বাচন করুন:"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:24
+msgid "Latest Product"
+msgstr "সর্বশেষ পণ্য"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:25
+msgid "Featured Product"
+msgstr "চাহিদা সম্পূর্ণ পণ্য"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:26
+msgid "Selected Product"
+msgstr "নির্বাচিত পণ্য"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:27
+msgid "Popular Product"
+msgstr "জনপ্রিয় পণ্য"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:28
+msgid "Category Product"
+msgstr "বিভাগ পণ্য"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:30
+msgid "Choose your preferred WooCommerce product type from the list."
+msgstr "তালিকা থেকে আপনার পছন্দসই WooCommerce পণ্য প্রকার নির্বাচন করুন"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:54
+msgid "Choose popular posts based on:"
+msgstr "উপর ভিত্তি করে জনপ্রিয় পোস্ট চয়ন করুন:"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:57
+msgid "View"
+msgstr "দৃশ্য"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:58
+msgid "Sell"
+msgstr "বিক্রি"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:59
+msgid "Rating"
+msgstr "গুণমান"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:61
+msgid "You can sort your popular post based on three different ways above."
+msgstr "আপনি উপরের তিনটি ভিন্ন উপায়ে উপর ভিত্তি করে আপনার জনপ্রিয় পোস্ট বাছাই করতে পারেন।."
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:66
+msgid "Total post per page:"
+msgstr "প্রতি পৃষ্ঠায় মোট পোস্ট:"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:79
+msgid "Enable/Disable Popup:"
+msgstr "পপআপ সক্ষম / অক্ষম করুন:"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:83
+msgid "Turn ON/OFF popup for selected slider style."
+msgstr "নির্বাচিত স্লাইডার শৈলী জন্য পপআপ চালু / বন্ধ।"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:93
+msgid "Sale Tag/Ribbon On/OFF:"
+msgstr "ক্রয় ট্যাগ / রিবন চালু / বন্ধ:"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:97
+msgid "Turn ON/OFF Sale Tag/Ribbon."
+msgstr "চালু / বন্ধ বিক্রয় ট্যাগ / রিবন চালু করুন"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:102
+msgid "Sale Tag/Ribbon Background Color:"
+msgstr "বিক্রয় ট্যাগ / রিবন পটভূমি রঙ:"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:104
+msgid "Sale Tag/Ribbon Background Color."
+msgstr "বিক্রয় ট্যাগ / রিবন পটভূমির রং"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:111
+msgid "Featured Tag/Ribbon On/OFF:"
+msgstr "চাহিদা সম্পূর্ণ  ট্যাগ / রিবন চালু / বন্ধ:"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:115
+msgid "Turn ON/OFF Featured Tag/Ribbon."
+msgstr "চাহিদা সম্পূর্ণ ট্যাগ / রিবন চালু / বন্ধ করুন"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:120
+msgid "Featured Tag/Ribbon Background Color:"
+msgstr "চাহিদা সম্পূর্ণ ট্যাগ / রিবন পটভূমি রঙ:"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:123
+msgid "Featured Tag/Ribbon Background Color."
+msgstr "চাহিদা সম্পূর্ণ ট্যাগ / রিবন পটভূমির রং"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:132
+msgid "Next"
+msgstr "পরবর্তী"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:158
+msgid "Select your product posts:"
+msgstr "আপনার পণ্য পোস্ট নির্বাচন করুন:"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:164
+msgid "Select posts from the dropdown or type 1st few character of the post title to shortlist.."
+msgstr "ড্রপডাউন থেকে পোস্ট নির্বাচন করুন বা শর্টলিস্টে পোস্ট শিরোনামের প্রথম কয়েক অক্ষর টাইপ করুন।"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:183
+msgid "Select your category posts:"
+msgstr "আপনার বিভাগ পোস্ট নির্বাচন করুন:"
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:189
+msgid "Select posts from the dropdown or type 1st few character of the post title to shortlist."
+msgstr "ড্রপডাউন থেকে পোস্ট নির্বাচন করুন বা শর্টলিস্টে পোস্ট শিরোনামের প্রথম কয়েক অক্ষর টাইপ করুন।"
+
+#: classes/metabox/sections/fields/woocase-shortcode-section-fields.php:22
+msgid "Get Shortcode:"
+msgstr "সর্টকোড পান:"
+
+#: classes/metabox/sections/fields/woocase-shortcode-section-fields.php:26
+msgid "Copy your shortcode from here."
+msgstr "এখানে থেকে আপনার সর্টকোড কপি।"
+
+#: classes/metabox/sections/woocase-display-settings.php:29
+msgid "Woocase display settings"
+msgstr "Woocase প্রদর্শন সেটিংস"
+
+#: classes/metabox/sections/woocase-general-settings.php:29
+msgid "Woocase general settings"
+msgstr "Woocase সাধারণ সেটিংস"
+
+#: classes/metabox/sections/woocase-pagination-settings.php:29
+msgid "Woocase pagination settings"
+msgstr "Woocase পৃষ্ঠাঙ্কন সেটিংস"
+
+#: classes/metabox/sections/woocase-shortcode-settings.php:29
+msgid "Woocase Shortcode"
+msgstr "Woocase সর্টকোড "
+
+#: classes/view/woocase-carousel-canter-focused-style.php:61
+#: classes/view/woocase-carousel-classic-v1-style.php:47
+#: classes/view/woocase-carousel-classic-v2-style.php:51
+#: classes/view/woocase-carousel-with-thumbnail-style.php:48
+#: classes/view/woocase-fullscreen-CMMF-style.php:106
+#: classes/view/woocase-fullscreen-vertical-showcase-style.php:47
+#: classes/view/woocase-grid-column-masonary-v1-style.php:68
+#: classes/view/woocase-grid-column-masonary-v2-style.php:72
+#: classes/view/woocase-grid-column-v1-style.php:70
+#: classes/view/woocase-grid-column-v2-style.php:68
+#: classes/view/woocase-grid-slide-classic-v1-style.php:73
+#: classes/view/woocase-grid-slide-classic-v2-style.php:52
+#: classes/view/woocase-grid-slide-classic-v3-style.php:52
+#: classes/view/woocase-list-with-full-thumb-style.php:47
+#: classes/view/woocase-sidebar-slide-classic-v1-style.php:49
+#: classes/view/woocase-sidebar-slide-classic-v2-style.php:46
+msgid "Quick View"
+msgstr "তারাতারি দেখা"
+
+#: classes/view/woocase-carousel-canter-focused-style.php:141
+#: classes/view/woocase-carousel-classic-v1-style.php:124
+#: classes/view/woocase-carousel-classic-v2-style.php:117
+#: classes/view/woocase-carousel-with-thumbnail-style.php:70
+#: classes/view/woocase-fullscreen-CMMF-style.php:135
+#: classes/view/woocase-fullscreen-vertical-showcase-style.php:79
+#: classes/view/woocase-grid-column-masonary-v1-style.php:147
+#: classes/view/woocase-grid-column-masonary-v2-style.php:139
+#: classes/view/woocase-grid-column-v1-style.php:149
+#: classes/view/woocase-grid-column-v2-style.php:135
+#: classes/view/woocase-grid-slide-classic-v1-style.php:156
+#: classes/view/woocase-grid-slide-classic-v2-style.php:118
+#: classes/view/woocase-grid-slide-classic-v3-style.php:133
+#: classes/view/woocase-list-with-full-thumb-style.php:62
+#: classes/view/woocase-list-with-side-thumb-style.php:135
+#: classes/view/woocase-sidebar-slide-classic-v1-style.php:128
+#: classes/view/woocase-sidebar-slide-classic-v2-style.php:116
+msgid "Select Options"
+msgstr "বিকল্প নির্বাচন করুন"
+
+#: classes/view/woocase-carousel-canter-focused-style.php:143
+#: classes/view/woocase-carousel-classic-v1-style.php:126
+#: classes/view/woocase-carousel-classic-v2-style.php:119
+#: classes/view/woocase-carousel-with-thumbnail-style.php:72
+#: classes/view/woocase-fullscreen-CMMF-style.php:137
+#: classes/view/woocase-grid-column-masonary-v1-style.php:149
+#: classes/view/woocase-grid-column-masonary-v2-style.php:141
+#: classes/view/woocase-grid-column-v1-style.php:151
+#: classes/view/woocase-grid-column-v2-style.php:137
+#: classes/view/woocase-grid-slide-classic-v1-style.php:158
+#: classes/view/woocase-grid-slide-classic-v2-style.php:120
+#: classes/view/woocase-grid-slide-classic-v3-style.php:135
+#: classes/view/woocase-list-with-full-thumb-style.php:64
+#: classes/view/woocase-sidebar-slide-classic-v1-style.php:130
+#: classes/view/woocase-sidebar-slide-classic-v2-style.php:118
+msgid "Add to cart"
+msgstr "কার্ট যোগ করুন"
+
+#: classes/view/woocase-carousel-canter-focused-style.php:148
+#: classes/view/woocase-carousel-classic-v1-style.php:129
+#: classes/view/woocase-carousel-classic-v2-style.php:152
+#: classes/view/woocase-carousel-with-thumbnail-style.php:76
+#: classes/view/woocase-fullscreen-CMMF-style.php:141
+#: classes/view/woocase-fullscreen-vertical-showcase-style.php:86
+#: classes/view/woocase-grid-column-masonary-v1-style.php:154
+#: classes/view/woocase-grid-column-masonary-v2-style.php:176
+#: classes/view/woocase-grid-column-v1-style.php:156
+#: classes/view/woocase-grid-column-v2-style.php:172
+#: classes/view/woocase-grid-slide-classic-v1-style.php:152
+#: classes/view/woocase-grid-slide-classic-v2-style.php:154
+#: classes/view/woocase-grid-slide-classic-v3-style.php:138
+#: classes/view/woocase-list-with-full-thumb-style.php:67
+#: classes/view/woocase-sidebar-slide-classic-v1-style.php:134
+#: classes/view/woocase-sidebar-slide-classic-v2-style.php:152
+msgid "Read More"
+msgstr "আরও পড়ুন"
+
+#: classes/view/woocase-carousel-canter-focused-style.php:166
+#: classes/view/woocase-carousel-classic-v1-style.php:137
+#: classes/view/woocase-carousel-classic-v2-style.php:128
+#: classes/view/woocase-carousel-with-thumbnail-style.php:85
+#: classes/view/woocase-grid-column-masonary-v1-style.php:169
+#: classes/view/woocase-grid-column-masonary-v2-style.php:150
+#: classes/view/woocase-grid-column-v1-style.php:171
+#: classes/view/woocase-grid-column-v2-style.php:146
+#: classes/view/woocase-grid-slide-classic-v1-style.php:168
+#: classes/view/woocase-grid-slide-classic-v2-style.php:129
+#: classes/view/woocase-grid-slide-classic-v3-style.php:146
+#: classes/view/woocase-list-with-full-thumb-style.php:75
+#: classes/view/woocase-list-with-side-thumb-style.php:113
+#: classes/view/woocase-sidebar-slide-classic-v1-style.php:142
+#: classes/view/woocase-sidebar-slide-classic-v2-style.php:127
+msgid "Sale!"
+msgstr "মূল্যহ্রাস"
+
+#: classes/view/woocase-carousel-canter-focused-style.php:170
+#: classes/view/woocase-carousel-classic-v1-style.php:141
+#: classes/view/woocase-carousel-classic-v2-style.php:132
+#: classes/view/woocase-carousel-with-thumbnail-style.php:89
+#: classes/view/woocase-grid-column-masonary-v1-style.php:173
+#: classes/view/woocase-grid-column-masonary-v2-style.php:154
+#: classes/view/woocase-grid-column-v1-style.php:175
+#: classes/view/woocase-grid-column-v2-style.php:150
+#: classes/view/woocase-grid-slide-classic-v1-style.php:172
+#: classes/view/woocase-grid-slide-classic-v2-style.php:133
+#: classes/view/woocase-grid-slide-classic-v3-style.php:150
+#: classes/view/woocase-list-with-full-thumb-style.php:79
+#: classes/view/woocase-list-with-side-thumb-style.php:117
+#: classes/view/woocase-sidebar-slide-classic-v1-style.php:146
+#: classes/view/woocase-sidebar-slide-classic-v2-style.php:131
+msgid "Hot"
+msgstr "চাহিদা সম্পূর্ণ"
+
+#: classes/view/woocase-fullscreen-vertical-showcase-style.php:81
+msgid "Buy This Item"
+msgstr "এই আইটেমটি কিনুন"
+
+#: classes/view/woocase-grid-column-masonary-v1-style.php:187
+#: classes/view/woocase-grid-column-masonary-v2-style.php:189
+#: classes/view/woocase-grid-column-v1-style.php:189
+#: classes/view/woocase-grid-column-v2-style.php:185
+msgid "Load More"
+msgstr "আরও দেখুন "
+
+#: classes/woocasepro-general-settings.php:134
+msgctxt "Woocase Pro General Name"
+msgid "Woocase Pro"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:135
+msgctxt "Woocase Pro Singular Name"
+msgid "Woocase Pro"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: classes/woocasepro-general-settings.php:136
+msgid "Woocase Pro"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:137
+#: classes/woocasepro-general-settings.php:163
+msgid "Post Type"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:138
+msgid "Item Archives"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:139
+msgid "Item Attributes"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:140
+msgid "Parent Item:"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:141
+msgid "All Showcase Items"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:142
+msgid "Add New Showcase Item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:143
+msgid "Add New Showcase"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:144
+msgid "New showcase Item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:145
+msgid "Edit showcase Item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:146
+msgid "Update sShowcase Item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:147
+msgid "View showcase Item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:148
+msgid "View showcase Items"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:149
+msgid "Search Item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:150
+msgid "Not found"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:151
+msgid "Not found in Trash"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:152
+msgid "Featured Image"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:153
+msgid "Set featured image"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:154
+msgid "Remove featured image"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:155
+msgid "Use as featured image"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:156
+msgid "Insert into showcase item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:157
+msgid "Uploaded to this showcase item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:158
+msgid "Items list"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:159
+msgid "Items list navigation"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:160
+msgid "Filter items list"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:164
+msgid "Post Type Description"
+msgstr ""
+
+#: inc/extra-functions.php:15
+msgid "Shortcode"
+msgstr ""
+
+#: inc/extra-functions.php:16
+msgid "Date"
+msgstr ""
+
+#: inc/init.php:696
+msgid "See Details"
+msgstr "বিস্তারিত দেখুন"
+
+#: inc/init.php:700
+msgid "Out Of Stock!"
+msgstr "স্টক আউট!"
+
+#: woocasepro.php:100
+#, php-format
+msgid "WooCasePro - says \"There must be active install of %s to take a flight!\""
+msgstr ""
+
+#: woocasepro.php:100
+msgid "WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woocase.wooslide.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WooCasePro is the strongest plugin to showcase WooCommerce products in style."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pixiefy"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://pixiefy.com/"
+msgstr ""

@@ -1,0 +1,766 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Woocase Pro\n"
+"POT-Creation-Date: 2017-05-04 16:27+0600\n"
+"PO-Revision-Date: 2017-05-04 16:26+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocasepro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:21
+msgid "Post Settings:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:24
+msgid "Slider"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:25
+msgid "Grid"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:26
+msgid "List"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:28
+msgid "Choose your preferred Variation of WooCase Showcase from the list."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:35
+msgid "Slider Type:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:38
+msgid "Full Screen/Hero Slide"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:39
+msgid "Carousel Slide"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:40
+msgid "Grid Slide"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:41
+msgid "Sidebar Slide"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:43
+msgid "Choose your preferred WooCase slide type from the list."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:51
+msgid "Full Screen/Hero Slide Styles:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:54
+msgid "Vertical Showcase"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:55
+msgid "Classic Style"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:56
+msgid "Modern Style"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:57
+msgid "Minimal Style"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:58
+msgid "Flat Style"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:60
+msgid "Choose your preferred WooCase Full Screen Slider Style from the list."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:68
+msgid "Carousel Styles:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:71
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:92
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:108
+msgid "Classic Slide V1"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:72
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:93
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:109
+msgid "Classic Slide V2"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:74
+msgid "Center Focused Slide V1"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:75
+msgid "Center Focused Slide V2"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:76
+msgid "Carousel With Thumbnail Slider"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:79
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:97
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:111
+msgid "Choose your preferred WooCase Carousel Style from the list."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:87
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:140
+msgid "Grid Styles:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:95
+msgid "Classic Slide V3"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:105
+msgid "Sidebar Styles:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:121
+msgid "Grid Type:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:124
+msgid "2 Column Grid"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:125
+msgid "3 Column Grid"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:126
+msgid "4 Column Grid"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:128
+msgid "2 Column Masonary Grid"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:129
+msgid "3 Column Masonary Grid"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:130
+msgid "4 Column Masonary Grid"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:132
+msgid "Choose your preferred WooCase Grid type from the list."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:143
+msgid "Classic V1"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:144
+msgid "Classic V2"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:146
+msgid "Choose your preferred WooCase Grid Style from the list."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:156
+msgid "List Type:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:159
+msgid "List With Full Thumb"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:160
+msgid "List With Side Thumb"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:162
+msgid "Choose your preferred WooCase list type from the list."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:174
+msgid "Auto Slide:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:179
+msgid "Turn ON/OFF Auto Slide for selected slider style."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:187
+msgid "Navigation:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:191
+msgid "Turn ON/OFF Navigation for selected slider style."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:200
+msgid "Pagination:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:204
+msgid "Turn ON/OFF Pagination for selected slider style."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:212
+msgid "Slide Time:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:220
+msgid "Choose Time beetween each Slide.(1 to 5 Seconds)"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:228
+msgid "Slider Container Width:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:236
+msgid "Choose Slider Container Width.(300px to 1170px)"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:244
+msgid "Post per Slide"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:251
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:326
+msgid "Choose How Many Posts you want to get per Slide."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:266
+msgid "Upload Slider Cover Image:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:275
+msgid ""
+"This image will cover full slide area, so upload depending on your need."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:279
+msgid "Background Image Size:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:282
+msgid "Cover"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:283
+msgid "Contain"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:286
+msgid ""
+"<strong>Cover:</strong> Scale the background image to be as large as "
+"possible so that the background area is completely covered by the background "
+"image. Some parts of the background image may not be in view within the "
+"background positioning area"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:287
+msgid ""
+"<strong>Contain:</strong> Scale the image to the largest size such that both "
+"its width and its height can fit inside the content area"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:291
+msgid "Background Image Position:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:294
+msgid "Center Center"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:295
+msgid "Left Center"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:296
+msgid "Right Center"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:299
+msgid ""
+"<strong>Background Position:</strong> The background-position property sets "
+"the starting position of a background image."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:303
+msgid "Background Image Size Repeat:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:306
+msgid "No Repeat"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:307
+msgid "Repeat"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:310
+msgid "<strong>No Repeat:</strong> The background-image will not be repeated."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:311
+msgid ""
+"<strong>Repeat:</strong> The background image will be repeated both "
+"vertically and horizontally."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:323
+msgid "Background Image Color:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-display-section-fields.php:330
+msgid "Prev"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:21
+msgid "Select Product Type:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:24
+msgid "Latest Product"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:25
+msgid "Featured Product"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:26
+msgid "Selected Product"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:27
+msgid "Popular Product"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:28
+msgid "Category Product"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:30
+msgid "Choose your preferred WooCommerce product type from the list."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:54
+msgid "Choose popular posts based on:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:57
+msgid "View"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:58
+msgid "Sell"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:59
+msgid "Rating"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:61
+msgid "You can sort your popular post based on three different ways above."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:66
+msgid "Total post per page:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:79
+msgid "Enable/Disable Popup:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:83
+msgid "Turn ON/OFF popup for selected slider style."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:93
+msgid "Sale Tag/Ribbon On/OFF:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:97
+msgid "Turn ON/OFF Sale Tag/Ribbon."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:102
+msgid "Sale Tag/Ribbon Background Color:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:104
+msgid "Sale Tag/Ribbon Background Color."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:111
+msgid "Featured Tag/Ribbon On/OFF:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:115
+msgid "Turn ON/OFF Featured Tag/Ribbon."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:120
+msgid "Featured Tag/Ribbon Background Color:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:123
+msgid "Featured Tag/Ribbon Background Color."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:132
+msgid "Next"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:158
+msgid "Select your product posts:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:164
+msgid ""
+"Select posts from the dropdown or type 1st few character of the post title "
+"to shortlist.."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:183
+msgid "Select your category posts:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-general-section-fields.php:189
+msgid ""
+"Select posts from the dropdown or type 1st few character of the post title "
+"to shortlist."
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-shortcode-section-fields.php:22
+msgid "Get Shortcode:"
+msgstr ""
+
+#: classes/metabox/sections/fields/woocase-shortcode-section-fields.php:26
+msgid "Copy your shortcode from here."
+msgstr ""
+
+#: classes/metabox/sections/woocase-display-settings.php:29
+msgid "Woocase display settings"
+msgstr ""
+
+#: classes/metabox/sections/woocase-general-settings.php:29
+msgid "Woocase general settings"
+msgstr ""
+
+#: classes/metabox/sections/woocase-pagination-settings.php:29
+msgid "Woocase pagination settings"
+msgstr ""
+
+#: classes/metabox/sections/woocase-shortcode-settings.php:29
+msgid "Woocase Shortcode"
+msgstr ""
+
+#: classes/view/woocase-carousel-canter-focused-style.php:61
+#: classes/view/woocase-carousel-classic-v1-style.php:47
+#: classes/view/woocase-carousel-classic-v2-style.php:51
+#: classes/view/woocase-carousel-with-thumbnail-style.php:48
+#: classes/view/woocase-fullscreen-CMMF-style.php:106
+#: classes/view/woocase-fullscreen-vertical-showcase-style.php:47
+#: classes/view/woocase-grid-column-masonary-v1-style.php:68
+#: classes/view/woocase-grid-column-masonary-v2-style.php:72
+#: classes/view/woocase-grid-column-v1-style.php:70
+#: classes/view/woocase-grid-column-v2-style.php:68
+#: classes/view/woocase-grid-slide-classic-v1-style.php:73
+#: classes/view/woocase-grid-slide-classic-v2-style.php:52
+#: classes/view/woocase-grid-slide-classic-v3-style.php:52
+#: classes/view/woocase-list-with-full-thumb-style.php:47
+#: classes/view/woocase-sidebar-slide-classic-v1-style.php:49
+#: classes/view/woocase-sidebar-slide-classic-v2-style.php:46
+msgid "Quick View"
+msgstr ""
+
+#: classes/view/woocase-carousel-canter-focused-style.php:141
+#: classes/view/woocase-carousel-classic-v1-style.php:124
+#: classes/view/woocase-carousel-classic-v2-style.php:117
+#: classes/view/woocase-carousel-with-thumbnail-style.php:70
+#: classes/view/woocase-fullscreen-CMMF-style.php:135
+#: classes/view/woocase-fullscreen-vertical-showcase-style.php:79
+#: classes/view/woocase-grid-column-masonary-v1-style.php:147
+#: classes/view/woocase-grid-column-masonary-v2-style.php:139
+#: classes/view/woocase-grid-column-v1-style.php:149
+#: classes/view/woocase-grid-column-v2-style.php:135
+#: classes/view/woocase-grid-slide-classic-v1-style.php:156
+#: classes/view/woocase-grid-slide-classic-v2-style.php:118
+#: classes/view/woocase-grid-slide-classic-v3-style.php:133
+#: classes/view/woocase-list-with-full-thumb-style.php:62
+#: classes/view/woocase-list-with-side-thumb-style.php:135
+#: classes/view/woocase-sidebar-slide-classic-v1-style.php:128
+#: classes/view/woocase-sidebar-slide-classic-v2-style.php:116
+msgid "Select Options"
+msgstr ""
+
+#: classes/view/woocase-carousel-canter-focused-style.php:143
+#: classes/view/woocase-carousel-classic-v1-style.php:126
+#: classes/view/woocase-carousel-classic-v2-style.php:119
+#: classes/view/woocase-carousel-with-thumbnail-style.php:72
+#: classes/view/woocase-fullscreen-CMMF-style.php:137
+#: classes/view/woocase-grid-column-masonary-v1-style.php:149
+#: classes/view/woocase-grid-column-masonary-v2-style.php:141
+#: classes/view/woocase-grid-column-v1-style.php:151
+#: classes/view/woocase-grid-column-v2-style.php:137
+#: classes/view/woocase-grid-slide-classic-v1-style.php:158
+#: classes/view/woocase-grid-slide-classic-v2-style.php:120
+#: classes/view/woocase-grid-slide-classic-v3-style.php:135
+#: classes/view/woocase-list-with-full-thumb-style.php:64
+#: classes/view/woocase-sidebar-slide-classic-v1-style.php:130
+#: classes/view/woocase-sidebar-slide-classic-v2-style.php:118
+msgid "Add to cart"
+msgstr ""
+
+#: classes/view/woocase-carousel-canter-focused-style.php:148
+#: classes/view/woocase-carousel-classic-v1-style.php:129
+#: classes/view/woocase-carousel-classic-v2-style.php:152
+#: classes/view/woocase-carousel-with-thumbnail-style.php:76
+#: classes/view/woocase-fullscreen-CMMF-style.php:141
+#: classes/view/woocase-fullscreen-vertical-showcase-style.php:86
+#: classes/view/woocase-grid-column-masonary-v1-style.php:154
+#: classes/view/woocase-grid-column-masonary-v2-style.php:176
+#: classes/view/woocase-grid-column-v1-style.php:156
+#: classes/view/woocase-grid-column-v2-style.php:172
+#: classes/view/woocase-grid-slide-classic-v1-style.php:152
+#: classes/view/woocase-grid-slide-classic-v2-style.php:154
+#: classes/view/woocase-grid-slide-classic-v3-style.php:138
+#: classes/view/woocase-list-with-full-thumb-style.php:67
+#: classes/view/woocase-sidebar-slide-classic-v1-style.php:134
+#: classes/view/woocase-sidebar-slide-classic-v2-style.php:152
+msgid "Read More"
+msgstr ""
+
+#: classes/view/woocase-carousel-canter-focused-style.php:166
+#: classes/view/woocase-carousel-classic-v1-style.php:137
+#: classes/view/woocase-carousel-classic-v2-style.php:128
+#: classes/view/woocase-carousel-with-thumbnail-style.php:85
+#: classes/view/woocase-grid-column-masonary-v1-style.php:169
+#: classes/view/woocase-grid-column-masonary-v2-style.php:150
+#: classes/view/woocase-grid-column-v1-style.php:171
+#: classes/view/woocase-grid-column-v2-style.php:146
+#: classes/view/woocase-grid-slide-classic-v1-style.php:168
+#: classes/view/woocase-grid-slide-classic-v2-style.php:129
+#: classes/view/woocase-grid-slide-classic-v3-style.php:146
+#: classes/view/woocase-list-with-full-thumb-style.php:75
+#: classes/view/woocase-list-with-side-thumb-style.php:113
+#: classes/view/woocase-sidebar-slide-classic-v1-style.php:142
+#: classes/view/woocase-sidebar-slide-classic-v2-style.php:127
+msgid "Sale!"
+msgstr ""
+
+#: classes/view/woocase-carousel-canter-focused-style.php:170
+#: classes/view/woocase-carousel-classic-v1-style.php:141
+#: classes/view/woocase-carousel-classic-v2-style.php:132
+#: classes/view/woocase-carousel-with-thumbnail-style.php:89
+#: classes/view/woocase-grid-column-masonary-v1-style.php:173
+#: classes/view/woocase-grid-column-masonary-v2-style.php:154
+#: classes/view/woocase-grid-column-v1-style.php:175
+#: classes/view/woocase-grid-column-v2-style.php:150
+#: classes/view/woocase-grid-slide-classic-v1-style.php:172
+#: classes/view/woocase-grid-slide-classic-v2-style.php:133
+#: classes/view/woocase-grid-slide-classic-v3-style.php:150
+#: classes/view/woocase-list-with-full-thumb-style.php:79
+#: classes/view/woocase-list-with-side-thumb-style.php:117
+#: classes/view/woocase-sidebar-slide-classic-v1-style.php:146
+#: classes/view/woocase-sidebar-slide-classic-v2-style.php:131
+msgid "Hot"
+msgstr ""
+
+#: classes/view/woocase-fullscreen-vertical-showcase-style.php:81
+msgid "Buy This Item"
+msgstr ""
+
+#: classes/view/woocase-grid-column-masonary-v1-style.php:187
+#: classes/view/woocase-grid-column-masonary-v2-style.php:189
+#: classes/view/woocase-grid-column-v1-style.php:189
+#: classes/view/woocase-grid-column-v2-style.php:185
+msgid "Load More"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:79
+msgid "General Settings"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:80
+msgid "Display Settings"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:140
+msgctxt "Woocase Pro General Name"
+msgid "Woocase Pro"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:141
+msgctxt "Woocase Pro Singular Name"
+msgid "Woocase Pro"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: classes/woocasepro-general-settings.php:142
+msgid "Woocase Pro"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:143
+#: classes/woocasepro-general-settings.php:169
+msgid "Post Type"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:144
+msgid "Item Archives"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:145
+msgid "Item Attributes"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:146
+msgid "Parent Item:"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:147
+msgid "All Showcase Items"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:148
+msgid "Add New Showcase Item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:149
+msgid "Add New Showcase"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:150
+msgid "New showcase Item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:151
+msgid "Edit showcase Item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:152
+msgid "Update sShowcase Item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:153
+msgid "View showcase Item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:154
+msgid "View showcase Items"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:155
+msgid "Search Item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:156
+msgid "Not found"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:157
+msgid "Not found in Trash"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:158
+msgid "Featured Image"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:159
+msgid "Set featured image"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:160
+msgid "Remove featured image"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:161
+msgid "Use as featured image"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:162
+msgid "Insert into showcase item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:163
+msgid "Uploaded to this showcase item"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:164
+msgid "Items list"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:165
+msgid "Items list navigation"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:166
+msgid "Filter items list"
+msgstr ""
+
+#: classes/woocasepro-general-settings.php:170
+msgid "Post Type Description"
+msgstr ""
+
+#: inc/extra-functions.php:15
+msgid "Shortcode"
+msgstr ""
+
+#: inc/extra-functions.php:16
+msgid "Date"
+msgstr ""
+
+#: inc/init.php:696
+msgid "See Details"
+msgstr ""
+
+#: inc/init.php:700
+msgid "Out Of Stock!"
+msgstr ""
+
+#: woocasepro.php:100
+#, php-format
+msgid ""
+"WooCasePro - says \"There must be active install of %s to take a flight!\""
+msgstr ""
+
+#: woocasepro.php:100
+msgid "WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woocase.wooslide.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WooCasePro is the strongest plugin to showcase WooCommerce products in style."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pixiefy"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://pixiefy.com/"
+msgstr ""

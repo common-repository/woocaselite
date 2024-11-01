@@ -1,0 +1,564 @@
+/*------------------------------------------------------------------
+.______    __  ___   ___  __   _______  ___________    ____ 
+|   _  \  |  | \  \ /  / |  | |   ____||   ____\   \  /   / 
+|  |_)  | |  |  \  V  /  |  | |  |__   |  |__   \   \/   /  
+|   ___/  |  |   >   <   |  | |   __|  |   __|   \_    _/   
+|  |      |  |  /  .  \  |  | |  |____ |  |        |  |     
+| _|      |__| /__/ \__\ |__| |_______||__|        |__|     
+
+
+@charset "utf-8";
+
+[Main Stylesheet]
+
+Project:    Myra
+Version:    0.1
+Last change:    30.12.2017
+Primary use:    Myra Minimal Template  
+
+
+================== Font Famil Used =================
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Dancing Script', cursive;
+
+
+[Typography]
+
+Body:               14px 'Poppins', sans-serif;
+Paragraph:          'Poppins', sans-serif;
+
+Section Title:      48px/1 'Poppins', sans-serif;
+Section Description:    14px/1 'Poppins', sans-serif;
+
+/*==============================
+[Table of contents]
+
+1. Typography
+2. Main Menu
+3. Buttons
+4. Welcome Section Area
+5. About Us Section Area
+6. Daily Menu Section Area
+7. Reciepe Section Area
+8. Reservation Section Area
+9. Chef Section Area
+10. Other Facility Section Area
+11. Footer Bottom Section Area
+12. Footer Section Area
+13. Owl Carousel Custom
+14. Single Page Background
+15. Single Page About Us
+16. Single Page Reservation
+17. Single Page Gallery
+18. Magnify Popup CSS INIT
+19. Magnify Pop Up Inline Css
+20. Single Page Recipes
+21. Single Page Contact
+22. Single Page Social
+23. Single Menu Page
+24. Custom Select 2 Css
+25. Custom Back To Top Css
+
+-------------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------============================================================
+	
+															1. Typography
+
+=============================================================--------------------------------------------------------------*/
+
+.woocase-banner-section {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 1;
+	overflow-x: hidden;
+	margin: 0;
+	padding: 0;
+	height: 600px;
+}
+a{
+	text-decoration: none;
+}
+.clear-both:before, .clear-both:after{
+	display: table;
+	content: "";
+	clear: both;
+}
+.woocase-main-container{
+/*	width: 1170px;
+	margin: 0 auto;*/
+}
+.woocase-banner-section .woocase-container{
+    width: 1170px;
+    margin: 0 auto;
+    max-width: 90%;
+}
+.woocasae-btn{
+	display: inline-block;
+    text-transform: capitalize;
+    font-size: 16px;
+    color: #fff;
+    background-color: #000;
+    transition: all .4s ease-in-out;
+    padding: 12px 20px;
+    font-family: 'Arial';
+    vertical-align: top;
+    margin: 0 10px;
+}
+.woocase-banner-version-4 .woocasse-banner-txt .woocasae-btn {
+    color: #fff;
+    background-color: #2F3030;
+    border-radius: 25px;
+}
+.woocase-banner-version-2 .woocase-banner-group .woocasae-btn {
+    color: #fff;
+    background-color: #333333;
+}
+.woocase-addToCart-btn a.woocasae-btn > img{
+	display: inline-block ;
+	width: auto;
+}
+.black-btn{
+	background-color: #333333;
+}
+.woocasae-btn:hover{
+	color: #fff;
+}
+.border-btn{
+	border: 1px solid #333333;
+	background-color: transparent;
+	color: #58403A;
+}
+.border-btn:hover{
+	color: #58403A;
+}
+.brown-btn{
+	background-color: #58403A;
+}
+.woocase-float-left{
+	width: 50%;
+	float: left;
+}
+.woocase-float-right{
+	width: 50%;
+	float: right;
+	position: relative;
+}
+.woocase-slider.owl-carousel {
+	height: 600px;
+}
+.woocase-carousel-default-css .owl-stage-outer, 
+/*.woocase-carousel-default-css .owl-stage, */
+.woocase-carousel-default-css .owl-item, 
+.woocase-carousel-default-css .woocase-item,
+.woocase-carousel-default-css .woocase-item-tbl-c,
+.woocase-carousel-default-css .woocase-container,
+.woocase-carousel-default-css .woocase-float-right,
+.woocase-carousel-default-css .woocase-float-left {
+    height: 100%;
+}
+.woocase-banner-section .owl-stage-outer, 
+.woocase-banner-section .owl-stage, 
+.woocase-banner-section .owl-item, 
+.woocase-banner-section .woocase-item,
+.woocase-banner-section .woocase-item-tbl-c,
+.woocase-banner-section .woocase-container,
+.woocase-banner-section .woocase-float-right,
+.woocase-banner-section .woocase-float-left {
+    height: 100%;
+}
+.woocase-item {
+	display: table;
+	width: 100%;
+}
+.woocase-item-tbl-c{
+	display: table-cell;
+	vertical-align: middle;
+}
+.woocase-banner-section{
+	position: relative;
+}
+.woocasse-banner-txt,
+.woocasae-banner-img{
+display: table-cell;
+vertical-align: middle;
+width: 100%;
+}
+.woocase-banner-content-sp,
+.woocase-banner-img-sp{
+	display: table;
+}
+.woocase-banner-img-sp .woocase-lombu-thumb{
+	max-height: 600px;
+    width: auto !important;
+    margin: 0 auto;
+}
+.woocase-banner-section .woocase-banner-img-sp .woocasae-banner-img img.woocase-simple-thumb {
+	width: auto;
+    max-height: 400px;
+    margin: auto;
+}
+
+/* Prelaoder */
+#preloader{
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background-color: #fff;
+	z-index: 9999;
+	background-image: url(img/ring.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+
+/* All Raleway Font Fmaily Used List */
+.woocase-banner-version-3 .woocasse-banner-txt h3,
+.woocase-banner-version-3 .woocasse-banner-txt p,
+.woocase-banner-version-4 .woocasse-banner-txt h3{
+	font-family: 'Raleway', sans-serif;
+}
+
+/* Owl Custom Navigation Setup */
+.woocase-banner-version-1 .customNavigation .next,
+.woocase-banner-version-2 .customNavigation .next,
+.woocase-banner-version-3 .customNavigation .next,
+.woocase-banner-version-4 .customNavigation .next,
+.woocase-banner-version-1 .customNavigation .prev,
+.woocase-banner-version-2 .customNavigation .prev,
+.woocase-banner-version-3 .customNavigation .prev,
+.woocase-banner-version-4 .customNavigation .prev{
+	position: absolute;
+	top: 50%;
+	right: 0%;
+	transform: translateY(-50%);
+	z-index: 9;
+}
+.woocase-banner-version-1 .customNavigation .prev,
+.woocase-banner-version-2 .customNavigation .prev,
+.woocase-banner-version-3 .customNavigation .prev,
+.woocase-banner-version-4 .customNavigation .prev{
+	right: inherit;
+	left: 0%;
+}
+/*--------------------------------------------------------------===========================================================*/
+
+/* Woocase Banner Design Version 1  */
+.woocase-banner-version-1 .woocasse-banner-txt h3{
+	font-size: 72px;
+	color: #58403A;
+	margin: 0;
+	line-height: 1.5;
+	margin-bottom: 50px;
+}
+.woocase-banner-version-1 .woocase-float-left{
+	position: relative;
+	text-align: center;
+}
+.cart-icon-btn img{
+	border-right: 1px solid #999999;
+	padding: 0 10px 0 0;
+	margin: 0 5px 0 0;
+}
+.woocase-banner-version-1 .border-btn{
+	/*margin: 0 0 0 40px;*/
+}
+.woocase-banner-version-1 .customNavigation .prev,
+.woocase-banner-version-1 .customNavigation .next{
+	padding: 0;
+	border-radius: 0%;
+	margin: 0;
+	opacity: 1;
+	width: 80px;
+	height: 80px;
+	background-color: #58403a;
+	line-height: 87px;
+	text-align: center;
+	cursor: pointer;
+	color: #fff;
+	font-size: 24px;
+}
+.woocase-banner-version-1 .woocasse-banner-txt{
+	left: 0;
+}
+
+/* WooCase Banner Design Version 2 */
+/*.woocase-banner-version-2 .woocasae-banner-img img{
+	height: 100%;
+	width: auto;
+}*/
+/*.woocase-banner-version-2 .woocasae-banner-img{
+	height: 100%;
+	left: 25%;
+	transform: translateY(-50%);
+}*/
+.woocase-banner-version-2{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+
+.woocase-banner-version-2 .woocasse-banner-txt h3{
+	font-size: 72px;
+	color: #333333;
+	text-align: center;
+	margin: 0;
+	line-height: 1.5;
+	margin-bottom: 40px;
+}
+.woocase-banner-version-2 .woocase-banner-group{
+	text-align: center;
+}
+.woocase-banner-version-2 .customNavigation .next,
+.woocase-banner-version-2 .customNavigation .prev{
+	padding: 0;
+	margin: 0;
+	font-size: 24px;
+	transform: rotate(45deg);
+	height: 80px;
+	width: 80px;
+	opacity: 1;
+	background-color: #333333;
+	line-height: 67px;
+	border: 2px solid #333333;
+	border-radius: 0;
+	transition: all .4s ease-in-out;
+	text-align: center;
+	color: #fff;
+	cursor: pointer;
+}
+.woocase-banner-version-2 .customNavigation .next img,
+.woocase-banner-version-2 .customNavigation .prev img{
+	transform: rotate(-45deg);
+}
+.woocase-banner-version-2 .customNavigation .next:hover,
+.woocase-banner-version-2 .customNavigation .prev:hover{
+	border: 2px solid #333333;
+	background-color: transparent;	
+	color: #333333;
+}
+/*.woocase-banner-version-2 .woocasse-banner-txt{
+	right: 16%;
+	transform: translateY(-50%);
+}*/
+/*.woocase-banner-version-2 .woocase-float-left{
+	width: 40%;
+}
+.woocase-banner-version-2 .woocase-float-right{
+	width: 60%;
+}*/
+
+/* WooCase Banner Design Version 3 */
+.woocase-banner-version-3 .woocasse-banner-txt{
+	text-align: right;
+	right: 0;
+}
+.woocase-banner-version-3 .woocasse-banner-txt h3{
+	font-weight: 900;
+	text-transform: uppercase;
+	font-size: 72px;
+	color: #333333;
+	margin: 0;
+	line-height: 1.4;
+	margin-bottom: 40px;
+}
+.woocase-banner-version-3 .woocasse-banner-txt h3 .gray-color{
+	display: block;
+	color: #999999;
+}
+.woocase-banner-version-3 .woocasse-banner-txt p{
+	font-size: 20px;
+	color: #999999;
+	margin: 0;
+	margin-bottom: 40px;
+}
+.woocase-banner-version-3 .border-btn{
+	color: #333333;
+}
+.woocase-banner-version-3 .customNavigation .next,
+.woocase-banner-version-3 .customNavigation .prev{
+	width: 50px;
+	height: 30px;
+	border-radius: 14px;
+	padding: 0;
+	margin:0;
+	line-height: 22px;
+	font-size: 20px;
+	color: #999;
+	background-color: transparent;
+	border: 2px solid #999;
+	display: inline-block;
+	text-align: center;
+	cursor: pointer;
+	transition: all .4s ease-in-out;
+}
+.woocase-banner-version-3 .customNavigation .next:hover,
+.woocase-banner-version-3 .customNavigation .prev:hover{
+	background-color: #000;
+	border-color: #000;
+}
+
+
+
+/* WooCase Banner Design Version 4 */
+.woocase-banner-version-4 .woocasse-banner-txt h3{
+	color: #333333;
+	font-size: 96px;
+	text-transform: uppercase;
+	margin: 0;
+	line-height: 1.3;
+	margin-bottom: 50px;
+	font-weight: 700;
+}
+.woocase-banner-version-4 .woocasse-banner-txt h3 span{
+	display: block;
+}
+.black-btn-2{
+	background-color: #2F3030;
+	border-radius: 25px;
+}
+.woocase-banner-version-4 .woocase-color-splash img{
+	position:absolute;
+	top: 0;
+	left: 0;
+	max-height: 100%;
+	width: auto;
+}
+.woocase-banner-version-4 .customNavigation .next,
+.woocase-banner-version-4 .customNavigation .prev{
+	cursor: pointer;
+}
+
+/* Add to Cart */
+.woocase-banner-section a.woocase-addtocart-url {
+    position: absolute;
+    bottom: -41px;
+    background-color: #58403A;
+    color: #fff;
+    display: block;
+    font-family: 'Raleway', sans-serif;
+}
+
+.woocase-banner-section img.woocase-addtocart-preloader {
+    position: absolute;
+    bottom: -30px;
+}
+
+
+
+
+.woocase-long-height-thumb {
+	height: 100%;
+	text-align: center;
+}
+.owl-carousel .owl-item .woocase-long-height-thumb img {
+	height: 100%;
+	width: auto;
+	display: inline-block;
+}
+.woocase-float-left {
+	position: static;
+}
+
+.woocase-banner-section.woocase-banner-version-2 a.woocase-addtocart-url {
+    background-color: #333333;
+}
+.woocase-banner-section.woocase-banner-version-1 a.woocase-addtocart-url,
+.woocase-banner-section.woocase-banner-version-2 a.woocase-addtocart-url,
+.woocase-banner-section.woocase-banner-version-3 a.woocase-addtocart-url ,
+.woocase-banner-section.woocase-banner-version-4 a.woocase-addtocart-url {
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+    background-color: #2F3030;
+    border-radius: 30px
+}
+.woocase-banner-section.woocase-banner-version-1 a.woocase-addtocart-url,
+.woocase-banner-section.woocase-banner-version-2 a.woocase-addtocart-url{
+	border-radius: 0;
+}
+.woocase-banner-section.woocase-banner-version-1 a.woocase-addtocart-url{
+	background-color: #58403A;
+    padding: 0;
+    bottom: -41px;
+}
+.woocase-banner-section.woocase-banner-version-3 a.woocase-addtocart-url {
+    background-color: transparent;
+    border-radius: 0;
+    color: #333333;
+    border: 1px solid #333333;
+    bottom: -40px
+}
+.woocase-banner-section.woocase-banner-version-1 img.woocase-addtocart-preloader,
+.woocase-banner-section.woocase-banner-version-2 img.woocase-addtocart-preloader,
+.woocase-banner-section.woocase-banner-version-3 img.woocase-addtocart-preloader,
+.woocase-banner-section.woocase-banner-version-4 img.woocase-addtocart-preloader{
+	left: 50%;
+    -webkit-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+div.woocase-banner-content-sp{
+	position: relative;
+}
+
+
+/* Extra */
+.woocase-quick-look {
+    position: relative;
+}
+.woocase-quick-look-details-data footer .woocase-carousel-btn {
+    padding: 9px 25px;;
+}
+.woocase-quick-look-details-data footer .woocase-addToCart-btn .woocase-carousel-btn {
+    padding: 10px 20px 10px 50px;
+}
+
+/* First tes */
+.vertical-woocase-slides > div {
+    height: 80%;
+}
+.woocase-banner-version-1 .woocasse-banner-txt h3,
+.woocase-banner-version-2 .woocasse-banner-txt h3,
+.woocase-banner-version-3 .woocasse-banner-txt h3,
+.woocase-banner-version-4 .woocasse-banner-txt h3 {
+    font-size: 45px;
+
+}
+.woocase-banner-version-1 .woocasse-banner-txt h3,
+.woocase-banner-version-2 .woocasse-banner-txt h3 {
+	font-family: 'Abril Fatface', cursive;
+}    
+.woocase-banner-version-1 .customNavigation .prev, .woocase-banner-version-1 .customNavigation .next {
+    width: 70px;
+    height: 70px;
+    line-height: 65px;
+}
+.woocase-banner-version-1 .customNavigation .prev img, 
+.woocase-banner-version-1 .customNavigation .next img {
+    /*padding: 23px 0;*/
+}
+.woocase-banner-section,
+.woocase-slider.owl-carousel {
+    height: 400px;
+}
+.woocase-banner-img-sp .woocase-lombu-thumb {
+    max-height:400px;
+}
+.woocase-banner-version-2 .customNavigation .next, .woocase-banner-version-2 .customNavigation .prev {
+    margin-top: -41px;
+}
+.woocase-banner-version-2 .customNavigation .prev {
+    margin-left: 15px;
+}
+.woocase-banner-version-2 .customNavigation .next {
+    margin-right: 15px;
+}
+
